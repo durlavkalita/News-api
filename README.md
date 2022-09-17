@@ -1,7 +1,5 @@
 # News api
 
-### preview - https://durlavk.github.io/News-api/
-
 ### Used-
 - html
 - css
